@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(81): warning C4715: 'GetValidGuess': nem todos os caminhos de controle retornam um valor
+  BullCowGame.vcxproj -> C:\Users\PsychoPeres\Documents\UnrealCourse\Section_02\x64\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> C:\Users\PsychoPeres\Documents\UnrealCourse\Section_02\x64\Debug\BullCowGame.pdb (Partial PDB)

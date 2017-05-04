@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(23): error C2065: 'cout': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(24): error C2065: 'cout': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(29): error C2065: 'cout': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(29): error C2065: 'endl': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(30): error C2065: 'cout': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(30): error C2065: 'endl': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(37): error C2065: 'cout': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(38): error C2065: 'cin': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(43): error C2065: 'cout': identificador não declarado
+c:\users\psychoperes\documents\unrealcourse\section_02\bullcowgame\main.cpp(45): error C2065: 'cin': identificador não declarado
+  FBullCowGame.cpp
+  Gerando Código...
